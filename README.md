@@ -1,5 +1,5 @@
 # Moksha
 A port of TopazNext to C# / .NetCore
 
-# Discord
+### Discord
 https://discord.gg/cwNvC4Zg
