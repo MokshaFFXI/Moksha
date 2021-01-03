@@ -152,10 +152,6 @@ log/tpz.leaks
 # VS Code
 .vscode
 
-# Visual Studio
-**/*.vcxproj*
-**/*.sln
-
 # ignore servers
 *-server
 
