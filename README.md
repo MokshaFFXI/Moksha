@@ -1,8 +1,8 @@
 # Moksha
-A port of TopazNext to C# / .NetCore
+A port of LandSandBoat to C# / .NET
 
 ### Discord
 https://discord.gg/cwNvC4Zg
 
 ### Links
-[TopazNext](https://github.com/topaz-next/topaz)
+[LandSandBoat](https://github.com/LandSandBoat/server)
